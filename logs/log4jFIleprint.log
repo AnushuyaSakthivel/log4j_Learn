@@ -1,0 +1,4 @@
+22:49:37.983 [main] DEBUG alpha.LoggerDemo1 - Juzt debug msg
+22:49:37.985 [main] ERROR alpha.LoggerDemo1 - obj not found
+22:49:37.986 [main] INFO  alpha.LoggerDemo1 - This is info
+22:49:37.986 [main] FATAL alpha.LoggerDemo1 - This is fatal
